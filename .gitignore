@@ -1,2 +1,4 @@
 .vscode/
 fashion-mnist_train.csv
+.ipynb_checkpoints/
+data/
