@@ -3,3 +3,4 @@ fashion-mnist_train.csv
 .ipynb_checkpoints/
 data/
 .DS_Store
+.quiltignore
